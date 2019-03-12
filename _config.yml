@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Cian M. Scannell"
 title_separator          : "-"
 name                     : &name "Cian M. Scannell"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Cian M. Scannell"
+  avatar           : "Cian.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "London"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cian+scannell"
+  googlescholar    : "http://https://scholar.google.co.uk/citations?user=EWjAN3YAAAAJ&hl=en.com"
+  email            : "cian.scannell (at) kcl (dot) ac (dot) uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cianmscannell"
   google_plus      :
   keybase          :
   instagram        :
