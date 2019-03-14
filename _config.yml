@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Cian M. Scannell"
   avatar           : "Cian.jpg"
-  bio              : "PhD student"
-  "Kings's College London" 
-  "the Alan Turing Institute"
+  bio              : "PhD student at Kings's College London and the Alan Turing Institute"
   location         : "London"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cian+scannell"
