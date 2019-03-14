@@ -82,12 +82,14 @@ analytics:
 author:
   name             : "Cian M. Scannell"
   avatar           : "Cian.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student <br/> 
+                      Kings's College London <br/>
+                      Alan Turing Institute"
   location         : "London"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cian+scannell"
   googlescholar    : "http://https://scholar.google.co.uk/citations?user=EWjAN3YAAAAJ&hl=en.com"
-  email            : "cian.scannell (at) kcl (dot) ac (dot) uk"
+  email            : "cian.scannell@kcl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,13 +104,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9240-793X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/cianmscannell"
   vine             :
   weibo            :
   xing             :
