@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematical Sciences, University College Cork, 2016
+* Year abroad, University of California, Santa Barbara, 2014-2015
+* M.Res. in Medical Imaging, King's College London, 2017
+* Ph.D in Biomedical Engineering, King's College London, 2020 (expected)
+* Visiting Student, Alan Turing Institute, 2018-2019
 
 Work experience
 ======
