@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematical Sciences, University College Cork, 2016
-* Year abroad, University of California, Santa Barbara, 2014-2015
-* M.Res. in Medical Imaging, King's College London, 2017
-* Ph.D in Biomedical Engineering, King's College London, 2020 (expected)
-* Visiting Student, Alan Turing Institute, 2018-2019
+* B.S. in Mathematical Sciences, <i>University College Cork</i>, 2016
+* Year abroad, <i>University of California, Santa Barbara</i>, 2014-2015
+* M.Res. in Medical Imaging, <i>King's College London</i>, 2017
+* Ph.D in Biomedical Engineering, <i>King's College London</i>, 2020 (expected)
+* Visiting Student, <i>Alan Turing Institute</i>, 2018-2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2015: Research Intern
+  * Tyndall National Institute
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
