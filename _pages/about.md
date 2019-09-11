@@ -12,3 +12,6 @@ I am a second year PhD student at King's College London working on image process
 
 ------
 Please get in touch if you are interested in discussing my work, future collaborations or opportunities.
+
+------
+![Boole](/images/Boole.jpg)
