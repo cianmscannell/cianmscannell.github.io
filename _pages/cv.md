@@ -19,24 +19,21 @@ Education
 
 Work experience
 ======
+* 2017 - Now: Teaching Assistant
+  * <i>King's College London</i>
+  * Computer programming - an introductory programming module for 1st year BEng students using MatLab.
+  * Object-oriented programming - an advanced programming module for 2nd year BEng students using C++.
+  * Computational Methods - the foundations and implementation of a suite of numerical tools for solving modelling problems.
 * Summer 2015: Research Intern
-  * Tyndall National Institute
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * <i>Tyndall National Institute</i>
+  * Performed numerical analysis of photonic devices for use in optical communication
+  * Implemented numerical analysis techniques using object-oriented C++
+  * Supervisor: Professor Frank Peters
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2015 - 2016: Mathematics Enrichment Programme Tutor
+  * <i>University College Cork</i>
+  * Trained students for Mathematical Olympiads.
+
 
 Publications
 ======
@@ -56,6 +53,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* ISMRM Summa Cum Laude Award (Top 5% of Abstracts) - 2019
+* ISMRM Travel Stipend - 2019
