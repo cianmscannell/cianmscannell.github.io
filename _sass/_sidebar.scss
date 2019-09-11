@@ -73,7 +73,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  height: 36px;
+  height: 46px;
 
   @include breakpoint($large) {
     display: block;
@@ -83,6 +83,7 @@
 
   img {
     max-width: 175px;
+    max-height: 215px;
     border-radius: 10%;
 
     @include breakpoint($large) {
