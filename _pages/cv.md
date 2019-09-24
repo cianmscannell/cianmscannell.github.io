@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematical Sciences, <i>University College Cork</i>, 2016
+* B.Sc. in Mathematical Sciences, <i>University College Cork</i>, 2016
 * Year abroad, <i>University of California, Santa Barbara</i>, 2014-2015
 * M.Res. in Medical Imaging, <i>King's College London</i>, 2017
 * Ph.D in Biomedical Engineering, <i>King's College London</i>, 2020 (expected)
