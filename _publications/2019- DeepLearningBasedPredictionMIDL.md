@@ -3,10 +3,7 @@ title: "Deep learning-based prediction of kinetic parameters from myocardial per
 collection: publications
 permalink: /publication/27/07/2019- DeepLearningBasedPredictionMIDL
 date: 27/07/2019
-venue: 'Medical Imaging with Deep learning'
+venue: 'Medical Imaging with Deep learning - Extended Abstract Track'
 paperurl: 'http://cianmscannell.github.io/files/DeepLearningBasedPredictionMIDL.pdf'
-citation: '<b>Cian M. Scannell</b>, Piet van den Bosch, Amedeo Chiribiri, Jack Lee, Marcel Breeuwer, Mitko Veta.'
 ---
-
-<a href='http://cianmscannell.github.io/files/DeepLearningBasedPredictionMIDL.pdf'>Download paper here</a>
 <b>Cian M. Scannell</b>, Piet van den Bosch, Amedeo Chiribiri, Jack Lee, Marcel Breeuwer, Mitko Veta.
