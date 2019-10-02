@@ -6,5 +6,4 @@ date: 19/11/2018
 venue: 'Journal of Cardiovascular Magnetic Resonance'
 paperurl: 'http://cianmscannell.github.io/files/ImportanceOfOperatorJCMR.pdf '
 ---
-
 <a href='http://cianmscannell.github.io/files/ImportanceOfOperatorJCMR.pdf '>Download paper here</a>
