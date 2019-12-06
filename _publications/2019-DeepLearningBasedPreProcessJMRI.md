@@ -5,8 +5,8 @@ permalink: /publication/11/11/2019-DeepLearningBasedPreProcessJMRI
 date: 11/11/2019
 venue: 'Journal of Magnetic Resonance Imaging'
 paperurl: 'http://cianmscannell.github.io/files/DeepLearningBasedPreProcessJMRI.pdf'
-citation: 'Cian M. Scannell</b>, Mitko Veta, Adriana D.M. Villa, Eva C. Sammut, Jack Lee, Marcel Breeuwer, Amedeo Chiribiri.'
+citation: '<b>Cian M. Scannell</b>, Mitko Veta, Adriana D.M. Villa, Eva C. Sammut, Jack Lee, Marcel Breeuwer, Amedeo Chiribiri.'
 ---
 
 <a href='http://cianmscannell.github.io/files/DeepLearningBasedPreProcessJMRI.pdf'>Download paper here</a>
-Cian M. Scannell</b>, Mitko Veta, Adriana D.M. Villa, Eva C. Sammut, Jack Lee, Marcel Breeuwer, Amedeo Chiribiri.
+<b>Cian M. Scannell</b>, Mitko Veta, Adriana D.M. Villa, Eva C. Sammut, Jack Lee, Marcel Breeuwer, Amedeo Chiribiri.
