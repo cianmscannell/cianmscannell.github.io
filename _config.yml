@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Cian M. Scannell"
   avatar           : "Cian.jpg"
-  bio              : "PhD student at Kings's College London and the Alan Turing Institute"
+  bio              : "PhD student at King's College London"
   location         : "London"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cian+scannell"
   googlescholar    : "https://scholar.google.com/citations?user=EWjAN3YAAAAJ&hl=en"
   email            : "cian.scannell@kcl.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Cian_Scannell"
   uri              :
   bitbucket        :
   codepen          :
