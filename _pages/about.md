@@ -14,7 +14,7 @@ I am a third year PhD student at King's College London working on image processi
 Please get in touch if you are interested in discussing my work, future collaborations or opportunities.
 
 ------
-<font size="10"><b>News</b></font>
+<font size="8"><b>News</b></font>
 
 ------
 ![Boole](/images/Boole.jpg)
