@@ -13,8 +13,13 @@ I am a third year PhD student at King's College London working on image processi
 ------
 Please get in touch if you are interested in discussing my work, future collaborations or opportunities.
 
+------
 News
 ======
+
+* Nov 19: Invited seminar in applied maths at Oxford in February 2020.
+* Nov 19: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.26983">Paper</a> on using deep learning for myocardial perfusion MR image processing published in <i>Journal of Magnetic Resonance Imaging</i>.
+* Nov 19: <a href="https://www.sciencedirect.com/science/article/pii/S1361841519301501">Paper</a> on Bayesian inference for myocardial perfusion quantification published in <i>Medical Image Analysis</i>.
 
 ------
 ![Boole](/images/Boole.jpg)
