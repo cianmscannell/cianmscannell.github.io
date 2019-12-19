@@ -93,7 +93,7 @@ for row, item in talks.iterrows():
     
     
     if len(str(item.talk_url)) > 3:
-        md += "\n[More information here](" + item.talk_url + ")\n" 
+        md += "\n[Slides](" + item.talk_url + ")\n" 
         
         
     md_filename = os.path.basename(md_filename)
