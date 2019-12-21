@@ -9,4 +9,4 @@ citation: '<b>Cian M. Scannell</b>, Amedeo Chiribiri, Adriana DM Villa, Marcel B
 ---
 
 <a href='http://cianmscannell.github.io/files/HierarchicalBayesianMedIA.pdf '>Download paper here</a>
-<b>Cian M. Scannell</b>, Amedeo Chiribiri, Adriana DM Villa, Marcel Breeuwer, Jack Lee.
+<br><b>Cian M. Scannell</b>, Amedeo Chiribiri, Adriana DM Villa, Marcel Breeuwer, Jack Lee.
