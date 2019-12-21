@@ -8,5 +8,7 @@ paperurl: 'http://cianmscannell.github.io/files/DeepLearningBasedPreProcessJMRI.
 citation: '<b>Cian M. Scannell</b>, Mitko Veta, Adriana D.M. Villa, Eva C. Sammut, Jack Lee, Marcel Breeuwer, Amedeo Chiribiri.'
 ---
 
-<a href='http://cianmscannell.github.io/files/DeepLearningBasedPreProcessJMRI.pdf'>Download paper here</a><br><br>
+<a href='http://cianmscannell.github.io/files/DeepLearningBasedPreProcessJMRI.pdf'>Download paper here</a>
+
+
 <b>Cian M. Scannell</b>, Mitko Veta, Adriana D.M. Villa, Eva C. Sammut, Jack Lee, Marcel Breeuwer, Amedeo Chiribiri.
