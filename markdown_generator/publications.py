@@ -92,15 +92,15 @@ for row, item in publications.iterrows():
     
     ## Markdown description for individual page
 
-    md += item.citation 
+    # md += item.citation 
     
     if len(str(item.paper_url)) > 5:
-        md += "\n\n<br><br><a href='" + item.paper_url + "'>Download paper here</a>\n" 
+        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a><br><br>\n" 
         
     # if len(str(item.excerpt)) > 5:
     #     md += "\n" + html_escape(item.excerpt) + "\n"
         
-    # md += item.citation 
+    md += item.citation 
     
     md_filename = os.path.basename(md_filename)
        
