@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Mathematical Sciences, <i>University College Cork</i>, 2016
-* Year abroad, <i>University of California, Santa Barbara</i>, 2014-2015
-* M.Res. in Medical Imaging, <i>King's College London</i>, 2017
-* Ph.D in Biomedical Engineering, <i>King's College London</i>, 2020 (expected)
+* <b>Ph.D<\b> in Biomedical Engineering, <i>King's College London</i>, 2020 (expected)
 * Visiting Student, <i>Alan Turing Institute</i>, 2018-2019
+* <b>M.Res<\b>. in Medical Imaging, <i>King's College London</i>, 2017
+* <b>B.Sc<\b>. in Mathematical Sciences, <i>University College Cork</i>, 2016
+* Year abroad, <i>University of California, Santa Barbara</i>, 2014-2015
+
+
 
 Work experience
 ======
