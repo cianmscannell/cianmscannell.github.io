@@ -207,7 +207,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # research
   - scope:
       path: ""
       type: research
@@ -216,6 +216,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # moco
+  - scope:
+    path: ""
+    type: motion compensation
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
   # _publications
   - scope:
       path: ""
