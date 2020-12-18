@@ -3,7 +3,7 @@ title: "Domain-Adversarial Learning for Multi-Centre, Multi-Vendor, and Multi-Di
 collection: publications
 permalink: /publication/26/08/2020-DACMRMnMs
 date: 26/08/2020
-venue: 'STACOM 2020'
+venue: 'STACOM Workshop'
 paperurl: 'http://cianmscannell.github.io/files/DACMRMnMs.pdf '
 citation: '<b>Cian M. Scannell</b>, Amedeo Chiribiri, Mitko Veta.'
 ---
