@@ -17,7 +17,7 @@ Please get in touch if you are interested in discussing my work, future collabor
 
 News
 ======
-* Dec 2020: I have been appointed as a trainee editorial board member at <a href="https://twitter.com/Radiology_AI/status/1338811038850924547">Radiology: Artificial Intelligence</a>.
+* Dec 2020: I have been appointed as a trainee editorial board member at <a href="https://pubs.rsna.org/page/ai/teb">Radiology: Artificial Intelligence</a>.
 * Dec 2020: I passed my PhD viva with my thesis being accepted with no corrections.
 * Nov 2020: Our <a href="https://www.sciencedirect.com/science/article/pii/S1936878X20309360">paper</a> on quantitative perfusion CMR for the identification of coronary microvascular dysfunction was accepted at JACC: Cardiovascular Imaging.
 * Oct 2020: I took part in the <a href="https://www.ub.edu/mnms/">M&Ms</a> challenge at STACOM, MICCAI 2020. The paper is <a href="https://arxiv.org/abs/2008.11776">here</a>. 
