@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Cian M. Scannell"
 title_separator          : "-"
 name                     : &name "Cian M. Scannell"
-description              : &description "PhD student"
+description              : &description "Postdoc"
 url                      : https://cianmscannell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cianmscannell/cianmscannell.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cian M. Scannell"
+  name             : "Cian M. Scannell, PhD"
   avatar           : "Cian.jpg"
-  bio              : "PhD student at King's College London"
+  bio              : "Postdoc at King's College London"
   location         : "London"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cian+scannell"
