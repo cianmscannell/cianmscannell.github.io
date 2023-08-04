@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /q-cardia/
   - /qcardia/
+---
 
 Cian M. Scannell
 ====
