@@ -26,7 +26,7 @@ News
 ======
 * May 2023: I attend EACVI 2023 in Barcelona and presented <a href="https://academic.oup.com/ehjcimaging/article/24/Supplement_1/jead119.397/7198968">a comparison of automated quantitative stress perfusion cardiac MR with AI-AIF versus FFR.</a>
 * April 2023: Shao-Kai Huang has started his MSc thesis on the topic of Denoising Diffusion Probabilistic Models for cardiac MR synthesis.
-* I am guest editing a special issue of Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA) on "The role of artificial intelligence in MRI/MRS acquisition and reconstruction" <a href="https://www.springer.com/journal/10334/updates/24073742">submit here!</a>
+* Feb 2023: I am guest editing a special issue of Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA) on "The role of artificial intelligence in MRI/MRS acquisition and reconstruction" <a href="https://www.springer.com/journal/10334/updates/24073742">submit here!</a>
 * Jan 2023: We published the AI-AIF, an AI-based correction of the arterial input function for quantitative stress perfusion cardiac MR in the <a href="https://academic.oup.com/ehjdh/article/4/1/12/6880440">European Heart Journal - Digital Health.</a>
 * Dec 2022: Rob de Mooij has started as a PhD candidate. He is currently researching self-supervised pretraining approaches for cardiac MR image analysis.
 * Sept 2022: We came in 3rd place for both tasks in the <a href="http://cmr.miccai.cloud">CMRxMotion challenge</a> at MICCAI (the only team in the top 3 for both tasks).
