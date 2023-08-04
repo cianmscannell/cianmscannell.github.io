@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 1. <b>Cian M. Scannell</b>, Mitko Veta, Adriana D.M. Villa, Eva Sammut, Jack Lee, Marcel Breeuwer, Amedeo Chiribiri.  <i>Deep-Learning-Based Preprocessing for Quantitative Myocardial Perfusion MRI.</i> Journal of Magnetic Resonamce Imaging. 2020. 
-https://doi.org/10.1002/jmri.26983.
+<a> href=https://doi.org/10.1002/jmri.26983> (link)</a> 
 2. Didier R.P.R.M. Lustermans, Sina Amirrajab, Mitko Veta, Marcel Breeuwer, <b>Cian M. Scannell</b>. <i>Optimized automated cardiac MR scar quantification with GAN‐based data augmentation.</i> Computer Methods and Programs in Biomedicine. 2022. 
+<a> href=https://doi.org/10.1002/jmri.26983> (link)</a> 
 https://doi.org/10.1016/j.cmpb.2022.107116.
 3. Rudolf L.M. van Herten, Amedeo Chiribiri, Marcel Breeuwer, Mitko Veta, <b>Cian M. Scannell</b>. <i>Physics-informed neural networks for myocardial perfusion MRI quantification.</i> Medical Image Analysis. 2022.
 https://doi.org/10.1016/j.media.2022.102399.
