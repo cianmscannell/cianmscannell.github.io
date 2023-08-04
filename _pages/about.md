@@ -9,15 +9,12 @@ redirect_from:
 ---
 
 My primary research interest is to improve the robustness and reliability of deep learning models for medical image analysis in order to realise the full potential of AI in clinical practice. To achieve this I am:
-  - exploring data-efficient (self-supervised, unsupervised,...) learning to exploit large unlabelled clinical databases
-  - embedding domain knowledge and incorporating prior anatomical, physical, and clinical information in model architectures to improve efficacy and efficiency
+  - exploring data-efficient (self-supervised, unsupervised,...) learning to exploit large unlabelled clinical databases.
+  - embedding domain knowledge and incorporating prior anatomical, physical, and clinical information in model architectures to improve efficacy.
+  - understanding when AI fails via out-of-distribution detection.
+  - leveraging generative AI with a view to using synthetic images in model training and improving the quality of clinical data.
 
-
-
- with a focus on quantitative cardiac MRI data.
-
-I am particularly interested in 
-I am currently working with a team of students and collaborators towards this goal.
+I am particularly interested in the automated analysis of quantitative cardiac MRI data, and I am currently working with a <a href="/q-cardIA/">team of students and collaborators</a> towards this goal.
 
 Previously, I studied Mathematical Sciences at University College Cork, Ireland.
 with Amedeo Chiribri
