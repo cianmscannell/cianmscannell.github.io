@@ -8,13 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (tenure-track) in <a href="https://tue-image.nl/">Medical Image Analysis</a> at the Eindhoven University of Technology. My primary research interest is the development of robust and reliable deep learning models for medical image analysis, with a focus on quantitative cardiac MRI data.
+My primary research interest is to improve the robustness and reliability of deep learning models for medical image analysis in order to realise the full potential of AI in clinical practice. To achieve this I am:
+  - exploring data-efficient (self-supervised, unsupervised,...) learning to exploit large unlabelled clinical databases
+  - embedding domain knowledge and incorporating prior anatomical, physical, and clinical information in model architectures to improve efficacy and efficiency
+
+
+
+ with a focus on quantitative cardiac MRI data.
 
 I am particularly interested in 
 I am currently working with a team of students and collaborators towards this goal.
 
 Previously, I studied Mathematical Sciences at University College Cork, Ireland.
 with Amedeo Chiribri
+
+AI-enabled quantitative cardiac magnetic resonance
+
+I am an Assistant Professor (tenure-track) in <a href="https://tue-image.nl/">Medical Image Analysis</a> at the Eindhoven University of Technology.
+
 News
 ======
 * Dec 2020: I have been appointed as a trainee editorial board member at <a href="https://pubs.rsna.org/page/ai/teb">Radiology: Artificial Intelligence</a>.
@@ -26,4 +37,6 @@ Please get in touch if you are interested in discussing my work, future collabor
 ------
 
 George Boole, the first Professor of Mathematics at University College Cork
-<img src='/images/Boole.jpg'>
+<img src='/images/Boole.jpg'
+     width="2726" 
+     height="2558">
