@@ -8,11 +8,11 @@ redirect_from:
   - /qcardia/
 ---
 
-Cian M. Scannell
-====
+## Cian M. Scannell
+Assistant Professor
 
-Rob de Mooij
-====
+## Rob de Mooij
+Phd Candidate
 
-Shao-Kai Huang
-====
+## Shao-Kai Huang
+MSc student
