@@ -8,10 +8,7 @@ redirect_from:
   - /qcardia/
 ---
 
-<img src="/images/combined-map.png" width="70" height="50">
-
-
-## Cian M. Scannell
+## Cian M. Scannell <img src="/images/combined-map.png" width="70" height="50">
 Assistant Professor
 
 ## Rob de Mooij
