@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can view a copy of my CV <a href='http://cianmscannell.github.io/files/CV.pdf '>here</a>. Updated August 2022.
+You can view a copy of my CV <a href='http://cianmscannell.github.io/files/CV.pdf '>here</a>. Updated August 2023.

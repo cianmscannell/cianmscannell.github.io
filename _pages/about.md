@@ -24,6 +24,7 @@ Please get in touch if you are interested in discussing my work, future collabor
 
 News
 ======
+* August 2023: I published (with Amedeo Chiribiri and Tim Leiner) a <a href="https://www.sciencedirect.com/science/article/pii/B9780323952095000027"> book chapter</a> on the role AI in perfusion MRI.
 * May 2023: I attend EACVI 2023 in Barcelona and presented <a href="https://academic.oup.com/ehjcimaging/article/24/Supplement_1/jead119.397/7198968">a comparison of automated quantitative stress perfusion cardiac MR with AI-AIF versus FFR.</a>
 * April 2023: Shao-Kai Huang has started his MSc thesis on the topic of Denoising Diffusion Probabilistic Models for cardiac MR synthesis.
 * Feb 2023: I am guest editing a special issue of Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA) on "The role of artificial intelligence in MRI/MRS acquisition and reconstruction" <a href="https://www.springer.com/journal/10334/updates/24073742">submit here!</a>
