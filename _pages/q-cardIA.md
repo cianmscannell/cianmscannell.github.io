@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 ## Cian M. Scannell
-| ![map image](https://cianmscannell.github.io/images/combined-map.png) | Assistant Professor |
+Assistant Professor              <img src="/images/combined-map.png" width="70" height="50">
 
 ## Rob de Mooij
-Phd Candidate
+Phd Candidate                    <img src="/images/combined-map.png" width="70" height="50">
 
 ## Shao-Kai Huang
 MSc student
