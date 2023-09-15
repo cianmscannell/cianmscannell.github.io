@@ -8,16 +8,12 @@ redirect_from:
   - /qcardia/
 ---
 
-|           |           |
-|-----------|-----------|
-| Cian M. Scannell |            |
-|Assistant Professor  |  <img src="/images/combined-map.png" width="70" height="50"> |
-| Rob de Mooij |            |
-|Phd Candidate       |  <img src="/images/combined-map.png" width="70" height="50"> |
 
-| Shao-Kai Huang |            |
-|MSc student      |  <img src="/images/combined-map.png" width="70" height="50"> |
+**Cian M. Scannell**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/combined-map.png" width="70" height="50"> 
+Assistant Professor
 
+**Rob de Mooij**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/combined-map.png" width="70" height="50">   
+Phd Candidate
 
-## Shao-Kai Huang
-MSc student    
+**Shao-Kai Huang**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/combined-map.png" width="70" height="50">   
+MSc student
