@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-**Cian M. Scannell**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/combined-map.png" width="70" height="50"> 
+**Cian M. Scannell**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/combined-map.png" width="70" height="50">   
 Assistant Professor
 
-**Rob de Mooij**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/combined-map.png" width="70" height="50">   
+**Rob de Mooij**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/combined-map.png" width="70" height="50">   
 Phd Candidate
 
 **Shao-Kai Huang**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/combined-map.png" width="70" height="50">   
