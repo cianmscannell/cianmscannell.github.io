@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Cian M. Scannell
-| ![map image][./images/combined-map.png] | Assistant Professor |
+| ![map image][https://cianmscannell.github.io/images/combined-map.png] | Assistant Professor |
 
 ## Rob de Mooij
 Phd Candidate
