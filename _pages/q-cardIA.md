@@ -18,7 +18,7 @@ Medical Image Analysis group, Department of Biomedical Engineering, Eindhoven Un
 
 <!-- **Rob de Mooij**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/de_Mooij_Rob.png" width="80" height="55">    -->
 
-<img src=/images/de_Mooij_Rob.png" style="float:left" width="80" height="55" />
+<img src="/images/de_Mooij_Rob.png" style="float:left" width="80" height="55" />
 **Rob de Mooij**
 
 *Phd Candidate*
