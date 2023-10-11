@@ -15,4 +15,4 @@ author_profile: true
 5. Haseeb Rahman, <b>Cian M. Scannell</b>, et al. <i>High-Resolution Cardiac Magnetic Resonance Imaging Techniques for the Identification of Coronary Microvascular Dysfunction.</i> Journal of the American College of Cardiology Imaging. 2021. 
 <a href="https://doi.org/10.1016/j.jcmg.2020.10.015">(link)</a> 
 
-You can find a full up-to-date list of my publications on <u><a href="{{https://scholar.google.com/citations?user=EWjAN3YAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
+You can find a full up-to-date list of my publications on <u><a href="https://scholar.google.com/citations?user=EWjAN3YAAAAJ&hl=en">my Google Scholar profile</a>.</u>
