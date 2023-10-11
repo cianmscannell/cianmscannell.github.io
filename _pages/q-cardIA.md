@@ -33,6 +33,7 @@ He completed both a bachelorâ€™s degree in biomedical engineering and my masterâ
 &nbsp;&nbsp;&nbsp;*MSc student*\
 \
 \
+\
 Shao-Kai is a graduate student at Eindhoven University of Technology, with a specialization in Artificial Intelligence Engineering Systems within the Department of Mechanical Engineering. With the interest in Generative AI, he dedicated his studies to the optimization of Denoising Diffusion Probabilistic Model for cardiac MRI generation at the Medical Image Analysis group.
 
 ## Former Members
