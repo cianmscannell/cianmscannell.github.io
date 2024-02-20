@@ -24,6 +24,10 @@ Please get in touch if you are interested in discussing my work, future collabor
 
 News
 ======
+* January 2024: New papers on: (1) <a href="https://link.springer.com/article/10.1007/s00330-024-10630-w"> Automatically selecting inversion times for LGE cardiac MR imaging</a>, and (2) <a href="https://academic.oup.com/ehjimp/article/2/1/qyae001/7513271"> Reporting high-resolution quantitative stress perfusion CMR</a>.
+* December 2023: Kai Bouman started his MSc thesis with me.
+* October 2023: Shao-Kai Huang graduates!
+* September 2023: Stijn van Wijngaarden and Noortje Schueler start their MSc thesis with me.
 * August 2023: I published (with Amedeo Chiribiri and Tim Leiner) a <a href="https://www.sciencedirect.com/science/article/pii/B9780323952095000027"> book chapter</a> on the role AI in perfusion MRI.
 * May 2023: I attend EACVI 2023 in Barcelona and presented <a href="https://academic.oup.com/ehjcimaging/article/24/Supplement_1/jead119.397/7198968">a comparison of automated quantitative stress perfusion cardiac MR with AI-AIF versus FFR.</a>
 * April 2023: Shao-Kai Huang has started his MSc thesis on the topic of Denoising Diffusion Probabilistic Models for cardiac MR synthesis.
