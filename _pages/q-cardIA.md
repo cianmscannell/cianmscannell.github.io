@@ -12,8 +12,8 @@ redirect_from:
 ## Current Members
 
 <!-- <img src="/images/combined-map.png" style="float:left" width="100" height="75" /> -->
-&nbsp;&nbsp;&nbsp;**Cian M. Scannell**\
-&nbsp;&nbsp;&nbsp;*Assistant Professor*\
+**Cian M. Scannell**\
+*Assistant Professor*\
 Medical Image Analysis group, Department of Biomedical Engineering, Eindhoven University of Technology
 
 <!-- <img src="/images/de_Mooij_Rob.png" style="float:left" width="100" height="75" /> -->
@@ -32,7 +32,7 @@ Noortje is a master's student in Biomedical Engineering at the TU/e, with a spec
 
 **Kai Bouman**\
 *MSc student*\
-Kai  is a master's student in Medical Engineering at the TU/e, with a specialization in Medical Image Analysis. For his thesis, he is working on Denoising Diffusion Probabilistic Model for cardiac MRI generation in collaboratio with Maastricht UMC+.
+Kai  is a master's student in Medical Engineering at the TU/e, with a specialization in Medical Image Analysis. For his thesis, he is working on Denoising Diffusion Probabilistic Model for cardiac MRI generation in collaboration with Maastricht UMC+.
 
 ## Former Members
 * **Shao-Kai Huang** - Master thesis.\
