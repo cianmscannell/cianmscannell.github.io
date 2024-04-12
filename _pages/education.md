@@ -9,13 +9,13 @@ redirect_from:
 
 **Teaching**
 
-* I am responsible lecturer for:
-  * <a href="https://research.tue.nl/en/courses/medical-image-analysis-3"> 8DC00 - Medical image analysis</a>.
-  This is a bachelor course introducing image analysis methods and on how they can be used to tackle clinical problems. Topics covered include image registration, machine learning, and computer-aided diagnosis. 
+I am responsible lecturer for:
+* <a href="https://research.tue.nl/en/courses/medical-image-analysis-3"> 8DC00 - Medical image analysis</a>.
+This is a bachelor course introducing image analysis methods and on how they can be used to tackle clinical problems. Topics covered include image registration, machine learning, and computer-aided diagnosis. 
 
-* I am also a lecturer for: 
-  * <a href="https://research.tue.nl/en/courses/capita-selecta-in-medical-image-analysis-3"> 8DC00 - Capita selecta in medical image analysis</a>
-  This is a specialisation course for master students covering a number of state-of-the-art techniques and topics in medical image analysis.
+I am also a lecturer for: 
+* <a href="https://research.tue.nl/en/courses/capita-selecta-in-medical-image-analysis-3"> 8DC00 - Capita selecta in medical image analysis</a>
+This is a specialisation course for master students covering a number of state-of-the-art techniques and topics in medical image analysis.
 
 I am in the process of obtaining my BKO (University Teaching Qualification).
 

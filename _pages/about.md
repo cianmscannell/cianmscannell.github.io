@@ -24,6 +24,7 @@ Please get in touch if you are interested in discussing my work, future collabor
 
 News
 ======
+* March 2024: New paper on <a href="https://academic.oup.com/ehjcimaging/advance-article/doi/10.1093/ehjci/jeae084/7634477"> evaluating in-line automated quantitative perfusion CMR</a>.
 * January 2024: New papers on: (1) <a href="https://link.springer.com/article/10.1007/s00330-024-10630-w"> Automatically selecting inversion times for LGE cardiac MR imaging</a>, and (2) <a href="https://academic.oup.com/ehjimp/article/2/1/qyae001/7513271"> Reporting high-resolution quantitative stress perfusion CMR</a>.
 * December 2023: Kai Bouman started his MSc thesis with me.
 * October 2023: Shao-Kai Huang graduates!
