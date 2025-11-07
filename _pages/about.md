@@ -22,9 +22,16 @@ Previously, I studied Mathematical Sciences at University College Cork, Ireland.
 ------
 Please get in touch if you are interested in discussing my work, future collaborations or opportunities.
 
-News
+Recent News
 ======
-* March 2024: New paper on <a href="https://academic.oup.com/ehjcimaging/advance-article/doi/10.1093/ehjci/jeae084/7634477"> evaluating in-line automated quantitative perfusion CMR</a>.
+* November 2025: I am visiting Julia Schnabel's group at TU Munich supported by the EuroTech Visiting Researcher Programme.
+* August 2025: I was part of the expert committee that co-authored the <a href="https://www.sciencedirect.com/science/article/pii/S1097664725001024">SCMR Consensus Statement on Quantitative Myocardial Perfusion MRI</a>.
+* June 2025: We organised a tutorial on Using Physics-Informed Neural Networks to Characterize Cardiac Properties at <a href="https://fimh2025.sciencesconf.org/resource/page/id/4">FIMH 2025</a>.
+* April 2025: New project started on developing QP-GPT: A foundation model for quantitative perfusion MRI, funded by the <a href="https://www.nwo.nl/en/projects/pbghh11782">NWO</a>.
+* February 2025: I obtained my UTQ (university teaching qualification) certificate.
+
+
+<!-- * March 2024: New paper on <a href="https://academic.oup.com/ehjcimaging/advance-article/doi/10.1093/ehjci/jeae084/7634477"> evaluating in-line automated quantitative perfusion CMR</a>.
 * January 2024: New papers on: (1) <a href="https://link.springer.com/article/10.1007/s00330-024-10630-w"> Automatically selecting inversion times for LGE cardiac MR imaging</a>, and (2) <a href="https://academic.oup.com/ehjimp/article/2/1/qyae001/7513271"> Reporting high-resolution quantitative stress perfusion CMR</a>.
 * December 2023: Kai Bouman started his MSc thesis with me.
 * October 2023: Shao-Kai Huang graduates!
@@ -36,7 +43,7 @@ News
 * Jan 2023: We published the AI-AIF, an AI-based correction of the arterial input function for quantitative stress perfusion cardiac MR in the <a href="https://academic.oup.com/ehjdh/article/4/1/12/6880440">European Heart Journal - Digital Health.</a>
 * Dec 2022: Rob de Mooij has started as a PhD candidate. He is currently researching self-supervised pretraining approaches for cardiac MR image analysis.
 * Sept 2022: We came in 3rd place for both tasks in the <a href="http://cmr.miccai.cloud">CMRxMotion challenge</a> at MICCAI (the only team in the top 3 for both tasks).
-
+ -->
 
 ------
 
