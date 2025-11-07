@@ -1,16 +1,2 @@
 # main links links
 main:
-  - title: "q-cardIA"
-    url: /q-cardIA/  
-
-  - title: "Publications"
-    url: /publications/
-        
-  - title: "CV"
-    url: /cv/
-
-  - title: "Code"
-    url: /code/  
-
-  - title: "Education"
-    url: /education/  
